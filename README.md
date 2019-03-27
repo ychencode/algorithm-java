@@ -5,3 +5,5 @@ Common algorithm implementation. Just for me :-)
 Bad Condition O(n<sup>2</sup>) <br />
 Good Condition O(logn)
 
+- BubbleSort <br />
+Bad Condtion && Good Condition O(n<sup>2</sup>)
